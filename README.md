@@ -1,6 +1,5 @@
 
 
-```markdown
 # 💰 FinanceFlow - Personal Expense Tracker
 
 ![FinanceFlow Banner](https://via.placeholder.com/800x400/6366f1/ffffff?text=FinanceFlow+Dashboard)
