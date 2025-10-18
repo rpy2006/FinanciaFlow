@@ -170,13 +170,8 @@ If you encounter any issues or have questions:
 </div>
 ```
 
-## To create the complete repository:
 
-1. **Copy the README.md content above** and save it as `README.md`
 
-2. **Create LICENSE file** with this content:
-```text
-MIT License
 
 Copyright (c) 2024 Rohit Yadav
 
@@ -231,6 +226,3 @@ Thank you for your interest in contributing to FinanceFlow! We welcome contribut
 Feel free to open an issue for any questions about contributing!
 
 
-4. **Rename your main file** from `budget.html` to `index.html`
-
-5. **Take actual screenshots** of your application and replace the placeholder image URLs with your actual screenshot file
