@@ -230,7 +230,7 @@ Thank you for your interest in contributing to FinanceFlow! We welcome contribut
 
 ## Questions?
 Feel free to open an issue for any questions about contributing!
-```
+
 
 4. **Rename your main file** from `budget.html` to `index.html`
 
