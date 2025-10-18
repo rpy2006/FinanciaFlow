@@ -200,7 +200,7 @@ SOFTWARE.
 ```
 
 3. **Create CONTRIBUTING.md** with this content:
-```markdown
+
 # Contributing to FinanceFlow
 
 Thank you for your interest in contributing to FinanceFlow! We welcome contributions from everyone.
